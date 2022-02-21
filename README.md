@@ -5,8 +5,8 @@ My sample solutions to SQL challenges on hackerank.com. The problem solutions wi
 
 | Challenge | Sample Solution |
 |:------:|:------------:|
-| <a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true">Japense Cities' Attribute </a> | <a href="Basic Select/Japanese-Cities-Attributes.sql"> SQL</a> |
-| <a href="https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true">Japense Cities' Names </a> | <a href="Basic Select/Japanese-Cities-Names.sql"> SQL</a> |
+| <a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true">Japanese Cities' Attribute </a> | <a href="Basic Select/Japanese-Cities-Attributes.sql"> SQL</a> |
+| <a href="https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true">Japanese Cities' Names </a> | <a href="Basic Select/Japanese-Cities-Names.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true">Revising the Select Query 1 </a> | <a href="Basic Select/Revising-the-Select-Query-1.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true">Revising the Select Query 2 </a> | <a href="Basic Select/Revising-the-Select-Query-II.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true">Select By ID </a> | <a href="Basic Select/Select-By-ID.sql"> SQL</a> |
