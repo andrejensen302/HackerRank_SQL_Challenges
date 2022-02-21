@@ -24,3 +24,14 @@ My sample solutions to SQL challenges on hackerank.com. The problem solutions wi
 |:------:|:------------:|
 | <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">African Cities </a> | <a href="Basic Join/African-Cities.SQL"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true">Average Population of Each Continet </a> | <a href="Basic Join/Average-Population-of-Each-Continent.sql"> SQL</a> |
+
+### Aggregation Challenges ###
+
+| Challenge | Sample Solution |
+|:------:|:------------:|
+| <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true">Population Density Difference</a> | <a href="Aggregation Challenges/Population-Density-Difference.sql"> SQL</a> |
+| <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true">Revising Aggregations - The Count Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Count-Function.sql"> SQL</a> 
+| <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Revising Aggregations - Averages</a> | <a href="Aggregation Challenges/Revising-Aggregations-Avg-Function.sql"> SQL</a> 
+| <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true">Revising Aggregations - The Sum Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Sum-Function.sql"> SQL</a> 
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Weather Observation Station 2</a> | <a href="Aggregation Challenges/Weather-Observation-Station-2.sql"> SQL</a>
+
