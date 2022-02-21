@@ -34,4 +34,4 @@ My sample solutions to SQL challenges on hackerank.com. The problem solutions wi
 | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Revising Aggregations - Averages</a> | <a href="Aggregation Challenges/Revising-Aggregations-Avg-Function.sql"> SQL</a> 
 | <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true">Revising Aggregations - The Sum Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Sum-Function.sql"> SQL</a> 
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Weather Observation Station 2</a> | <a href="Aggregation Challenges/Weather-Observation-Station-2.sql"> SQL</a>
-
+| <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Average Population</a> | <a href="Aggregation Challenges/Average-population.sql"> SQL</a>
