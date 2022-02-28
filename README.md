@@ -11,8 +11,13 @@ SQL* indicates I have used multiple solutions to solve the same SQL challenge.
 | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true">Revising Aggregations - The Count Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Count-Function.sql"> SQL</a> 
 | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Revising Aggregations - Averages</a> | <a href="Aggregation Challenges/Revising-Aggregations-Avg-Function.sql"> SQL</a> 
 | <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true">Revising Aggregations - The Sum Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Sum-Function.sql"> SQL</a> 
-| <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Weather Observation Station 2</a> | <a href="Aggregation Challenges/Weather-Observation-Station-2.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true">Top Earners</a> | <a href="Aggregation Challenges/Top-Earners.sql"> SQL</a> 
 | <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Average Population</a> | <a href="Aggregation Challenges/Average-population.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Weather Observation Station 2</a> | <a href="Aggregation Challenges/Weather-Observation-Station-2.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true">Weather Observation Station 13</a> | <a href="Aggregation Challenges/Weather-Observation-Station-13.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true">Weather Observation Station 14</a> | <a href="Aggregation Challenges/Weather-Observation-Station-14.sql"> SQL*</a>
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true">Weather Observation Station 15</a> | <a href="Aggregation Challenges/Weather-Observation-Station-15.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true">Weather Observation Station 16</a> | <a href="Aggregation Challenges/Weather-Observation-Station-16.sql"> SQL</a>
 
 ### Basic Select Challenges ###
 
