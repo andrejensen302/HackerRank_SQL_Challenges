@@ -1,6 +1,19 @@
 # HackerRank SQL Challenges #
 My sample solutions to SQL challenges on hackerank.com. The problem solutions will be arranged by problem type.
 
+SQL* indicates I have used multiple solutions to solve the same SQL challenge.
+
+### Aggregation Challenges ###
+
+| Challenge | Sample Solution |
+|:------:|:------------:|
+| <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true">Population Density Difference</a> | <a href="Aggregation Challenges/Population-Density-Difference.sql"> SQL</a> |
+| <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true">Revising Aggregations - The Count Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Count-Function.sql"> SQL</a> 
+| <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Revising Aggregations - Averages</a> | <a href="Aggregation Challenges/Revising-Aggregations-Avg-Function.sql"> SQL</a> 
+| <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true">Revising Aggregations - The Sum Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Sum-Function.sql"> SQL</a> 
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Weather Observation Station 2</a> | <a href="Aggregation Challenges/Weather-Observation-Station-2.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Average Population</a> | <a href="Aggregation Challenges/Average-population.sql"> SQL</a>
+
 ### Basic Select Challenges ###
 
 | Challenge | Sample Solution |
@@ -15,7 +28,7 @@ My sample solutions to SQL challenges on hackerank.com. The problem solutions wi
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true">Weather Observation Station 3 </a> | <a href="Basic Select/Weather-Observation-3.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true">Weather Observation Station 5 </a> | <a href="Basic Select/Weather-Observation-Station-5.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true">Weather Observation Station 6 </a> | <a href="Basic Select/Weather-Observation-Station-6.sql"> SQL</a> |
-| <a href="https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true">Weather Observation Station 7 </a> | <a href="Basic Select/Weather-Observation-Station-7.sql"> SQL</a> |
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true">Weather Observation Station 7 </a> | <a href="Basic Select/Weather-Observation-Station-7.sql"> SQL*</a> |
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true">Weather Observation Station 8 </a> | <a href="Basic Select/Weather-Observation-Station-8.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true">Weather Observation Station 9 </a> | <a href="Basic Select/Weather-Observation-Station-9.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true">Weather Observation Station 10 </a> | <a href="Basic Select/Weather-Observation-Station-10.sql"> SQL</a> |
@@ -31,13 +44,4 @@ My sample solutions to SQL challenges on hackerank.com. The problem solutions wi
 | <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">African Cities </a> | <a href="Basic Join/African-Cities.SQL"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true">Average Population of Each Continet </a> | <a href="Basic Join/Average-Population-of-Each-Continent.sql"> SQL</a> |
 
-### Aggregation Challenges ###
 
-| Challenge | Sample Solution |
-|:------:|:------------:|
-| <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true">Population Density Difference</a> | <a href="Aggregation Challenges/Population-Density-Difference.sql"> SQL</a> |
-| <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true">Revising Aggregations - The Count Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Count-Function.sql"> SQL</a> 
-| <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Revising Aggregations - Averages</a> | <a href="Aggregation Challenges/Revising-Aggregations-Avg-Function.sql"> SQL</a> 
-| <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true">Revising Aggregations - The Sum Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Sum-Function.sql"> SQL</a> 
-| <a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true">Weather Observation Station 2</a> | <a href="Aggregation Challenges/Weather-Observation-Station-2.sql"> SQL</a>
-| <a href="https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true">Average Population</a> | <a href="Aggregation Challenges/Average-population.sql"> SQL</a>
