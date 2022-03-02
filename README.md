@@ -18,6 +18,8 @@ SQL* indicates I have used multiple solutions to solve the same SQL challenge.
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true">Weather Observation Station 14</a> | <a href="Aggregation Challenges/Weather-Observation-Station-14.sql"> SQL*</a>
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true">Weather Observation Station 15</a> | <a href="Aggregation Challenges/Weather-Observation-Station-15.sql"> SQL</a>
 | <a href="https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true">Weather Observation Station 16</a> | <a href="Aggregation Challenges/Weather-Observation-Station-16.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true">Weather Observation Station 17</a> | <a href="Aggregation Challenges/Weather-Observation-Station-17.sql"> SQL</a>
+| <a href="https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true">Japan Population</a> | <a href="Aggregation Challenges/Japan-Population.sql"> SQL</a>
 
 ### Basic Select Challenges ###
 
@@ -48,5 +50,6 @@ SQL* indicates I have used multiple solutions to solve the same SQL challenge.
 |:------:|:------------:|
 | <a href="https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true">African Cities </a> | <a href="Basic Join/African-Cities.SQL"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true">Average Population of Each Continet </a> | <a href="Basic Join/Average-Population-of-Each-Continent.sql"> SQL</a> |
+| <a href="https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true">Population Census </a> | <a href="Basic Join/Population-Census.sql"> SQL</a> |
 
 
