@@ -3,6 +3,12 @@ My sample solutions to SQL challenges on hackerank.com. The problem solutions wi
 
 SQL* indicates I have used multiple solutions to solve the same SQL challenge.
 
+### Advanced Select ###
+
+| Challenge | Sample Solution |
+|:------:|:------------:|
+| <a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true">Type of Triangle</a> | <a href="Advanced Select/Type-of-Triangle.sql"> SQL</a> |
+
 ### Aggregation Challenges ###
 
 | Challenge | Sample Solution |
