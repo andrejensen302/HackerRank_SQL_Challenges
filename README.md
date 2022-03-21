@@ -13,6 +13,7 @@ SQL* indicates I have used multiple solutions to solve the same SQL challenge.
 
 | Challenge | Sample Solution |
 |:------:|:------------:|
+| <a href="https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true">The Blunder</a> | <a href="Aggregation Challenges/The-Blunder.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true">Population Density Difference</a> | <a href="Aggregation Challenges/Population-Density-Difference.sql"> SQL</a> |
 | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true">Revising Aggregations - The Count Function</a> | <a href="Aggregation Challenges/Revising-Aggregations-Count-Function.sql"> SQL</a> 
 | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true">Revising Aggregations - Averages</a> | <a href="Aggregation Challenges/Revising-Aggregations-Avg-Function.sql"> SQL</a> 
