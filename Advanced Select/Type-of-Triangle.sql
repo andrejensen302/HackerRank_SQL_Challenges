@@ -16,3 +16,5 @@ WHEN A = B OR B = C OR A = C THEN 'Isosceles'
 ELSE 'Scalene'
 END
 FROM TRIANGLES;
+
+**test 04/30/2023**
